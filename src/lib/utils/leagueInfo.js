@@ -7,12 +7,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>The Lelystad Legends is een Fantasy League met een rijke historie. Een historie die voor de League begint in 2019. Op een dag wordt er door twee enthousiaste jonge mannen een idee bedacht, een competitie oprichten voor de eer.</p>
+  <p>De site en de deelnemers van de league veranderen in de jaren daarna nog enkele keren, maar een harde kern blijft altijd aanwezig, zij vormen samen “The Lelystad Legends”. Zo begon er een periode vol verwachting, hoop en verwarring.</p>
+  <p>Deze periode begon stroef, veel leden hadden geen kennis van de Amerikaanse Sport. Op goed vertrouwen werd er geparticipeerd. Bij de eerste draft was er na de eerste ronde al geen wijsheid meer te vinden, dat gaat nu heel anders.</p>
+  <p>Onverwacht, maar zeker ook vooral gegund, werd Dylan Brunisso Kampioen. Dit zou de eerste van velen worden voor de meest gedecoreerde Manager uit de competitie. Ian Mooiweer werd bekroond tot Kampioen van het reguliere seizoen. Echter, Ian wist dat de voorsprong die hij had van kennis hem ontglipte, dus tevreden was hij niet.</p>
+  <p>Nog steeds niet uit de Corona crisis, wisten de managers in 2020 weer bij elkaar te komen. Versterkt met de zeer competente heren Daan, Stijn, Justin en Bart stond iedereen weer te popelen om te strijden voor de eer. Helaas werd dit seizoen niet erkend door corona omstandigheden.</p>
+  <p>Wat 2021 voor ons in petto heeft? Wie zal het weten.</p>
 `;
 
 /*   STEP 3   */
